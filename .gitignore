@@ -1,0 +1,11 @@
+# Raw data - too large to commit
+*.csv
+!data/cleaned_openfoodfacts.csv
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
